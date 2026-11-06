@@ -4,7 +4,7 @@
 #define ledPin 13
 
 int valorSensLuz = 0;
-int asEscuras = 200;
+int asEscuras = 600;
 
 void setup() {
   Serial.begin(9600);
